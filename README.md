@@ -2,7 +2,7 @@
 
 Here are the implementations of the following design patterns in TypeScript:
 
-### Creational ###
+### Creational Patterns ###
 
 * [Singleton](./singleton/)
 * [Abstract Factory](./abstractFactory/)
