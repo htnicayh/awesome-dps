@@ -9,3 +9,9 @@ Here are the implementations of the following design patterns in TypeScript:
 * [Factory Method](./factoryMethod/)
 * [Builder](./builder/)
 * [Prototype](./prototype/)
+
+### Structural Patterns ###
+
+* [Adapter](./adapter/)
+* [Bridge](./bridge/)
+* [Decorator](./decorator/)
